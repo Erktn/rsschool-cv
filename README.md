@@ -1,2 +1,1 @@
-# rsschool-cv
-new
+# https://erktn.github.io/rsschool-cv/cv
